@@ -1,5 +1,8 @@
 _repo: Drawing-for-Printers-A-practical-treatise-on-the-art-of-designing-and-illustrating-in-connect__53561
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53561-h/images/cover.jpg
 creator:
   author:
     agent_name: Knaufft, Ernest
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '47436'
     url: http://www.gutenberg.org/2009/agents/47436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53561#Drawing-for-Printers-A-practical-treatise-on-the-art-of-designing-and-illustrating-in-connect_
 gutenberg_issued: '2016-11-20'
 gutenberg_type: Text
 identifiers:
