@@ -1,0 +1,29 @@
+_repo: Drawing-for-Printers-A-practical-treatise-on-the-art-of-designing-and-illustrating-in-connect__53561
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knaufft, Ernest
+    birthdate: 1864
+    gutenberg_agent_id: '47436'
+    url: http://www.gutenberg.org/2009/agents/47436
+description: ''
+gutenberg_issued: '2016-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Illustration of books'
+- !lcsh 'Drawing'
+- !lcsh 'Wood-engraving'
+- !lcsh 'Lettering'
+- !lcc 'NC'
+- GITenberg
+title: "Drawing for Printers.\r\nA practical treatise on the art of designing and\
+  \ illustrating in connection with typography. Containing complete instruction, fully\
+  \ illustrated, concerning the art of drawing, for the beginner as well as the more\
+  \ advanced student."
+url: http://www.gutenberg.org/ebooks/53561
